@@ -12,11 +12,11 @@
 
 <p align="left">
   
-- 🌱 I’m currently learning Web Development
+•🌱 I’m currently learning Web Development
   
--📫 How to reach me **jhasneha988350@gmail.com**
+•📫 How to reach me **jhasneha988350@gmail.com**
 
--🔁 Fun Fact: I’ve renamed the same variable five times just to feel productive.</p>
+•🔁 Fun Fact: I’ve renamed the same variable five times just to feel productive.</p>
 
 ###
 
