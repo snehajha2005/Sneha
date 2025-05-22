@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">• 🌱 I’m currently learning Web Development<br>• 📫 How to reach me **jhasneha988350@gmail.com**<br>• 🔁 Fun Fact: I’ve renamed the same variable five times just to feel productive.</p>
+<p align="left">
+  
+- 🌱 I’m currently learning Web Development
+  
+-📫 How to reach me **jhasneha988350@gmail.com**
+
+-🔁 Fun Fact: I’ve renamed the same variable five times just to feel productive.</p>
 
 ###
 
